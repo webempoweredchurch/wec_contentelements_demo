@@ -1,0 +1,37 @@
+<T3DataStructure>
+	<ROOT>
+		<type>array</type>
+		<el>
+			<images>
+				<section>1</section>
+				<type>array</type>
+				<el>
+					<image>
+						<type>array</type>
+						<tx_templavoila>
+							<title>LLL:EXT:wec_contentelements_demo/flexFormSectionDemo/locallang.xml:flexform.flexFormSectionDemo.image</title>
+						</tx_templavoila>
+						<el>
+							<file>
+								<TCEforms>
+									<label>LLL:EXT:wec_contentelements_demo/flexFormSectionDemo/locallang.xml:flexform.flexFormSectionDemo.imageFile</label>
+									<config>
+										<type>group</type>
+										<internal_type>file</internal_type>
+										<allowed>gif,jpg,jpeg,tif,bmp,pcx,tga,png,pdf,ai</allowed>
+										<max_size>5000</max_size>
+										<uploadfolder>uploads/tx_weccontentelements_demo/flexFormSectionDemo</uploadfolder>
+										<maxitems>1</maxitems>
+										<size>1</size>
+										<selectedListStyle>width:200px</selectedListStyle>
+										<show_thumbs>1</show_thumbs>
+									</config>
+								</TCEforms>
+							</file>
+						</el>
+					</image>
+				</el>
+			</images>
+		</el>
+	</ROOT>
+</T3DataStructure>

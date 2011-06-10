@@ -1,0 +1,17 @@
+<div itemscope itemtype="http://schema.org/Person">
+	<span itemprop="name">{name}</span>
+	<f:if condition="{image}">
+		<f:image src="uploads/tx_weccontentelements_demo/fluidDemo/{image}" width="150c" height="150c" alt="Image for {name}" />
+	</f:if>
+
+	<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+		<span itemprop="streetAddress">{streetAddress}</span>
+		<span itemprop="addressLocality">{addressLocality}</span>,
+		<span itemprop="addressRegion">{addressRegion}</span>
+		<span itemprop="postalCode">{postalCode}</span>
+	</div>
+	<span itemprop="telephone">{telephone}</span>
+	<f:link.email email="{email}" />
+	
+	Home Page: <f:link.external uri="{url}" />
+</div>

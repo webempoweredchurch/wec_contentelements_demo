@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="streetAddress.description">The street address can span multiple lines, but is not allowed to contain any HTML.</label>
+		</languageKey>
+	</data>
+</T3locallang>

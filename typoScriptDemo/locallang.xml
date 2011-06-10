@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wec_contentelements_demo'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.typoScriptDemo.title">WEC Content Elements Demo - TypoScript</label>
+			<label index="tt_content.typoScriptDemo.description">Uses WEC Content Elements and TypoScript to display personal info using markup from schema.org</label>
+
+			<label index="flexform.typoScriptDemo.name">Name</label>
+			<label index="flexform.typoScriptDemo.image">Image</label>
+			<label index="flexform.typoScriptDemo.streetAddress">Street Address</label>
+			<label index="flexform.typoScriptDemo.addressLocality">City</label>
+			<label index="flexform.typoScriptDemo.addressRegion">State/Province</label>
+			<label index="flexform.typoScriptDemo.postalCode">ZIP/Postal Code</label>
+			<label index="flexform.typoScriptDemo.telephone">Telephone</label>
+			<label index="flexform.typoScriptDemo.email">Email</label>
+			<label index="flexform.typoScriptDemo.url">URL</label>
+		</languageKey>
+	</data>
+</T3locallang>

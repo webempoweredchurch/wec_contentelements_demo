@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wec_contentelements_demo'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.fluidDemo.title">WEC Content Elements Demo - Fluid</label>
+			<label index="tt_content.fluidDemo.description">Uses WEC Content Elements and Fluid to display personal info using markup from schema.org</label>
+
+			<label index="flexform.fluidDemo.name">Name</label>
+			<label index="flexform.fluidDemo.image">Image</label>
+			<label index="flexform.fluidDemo.streetAddress">Street Address</label>
+			<label index="flexform.fluidDemo.addressLocality">City</label>
+			<label index="flexform.fluidDemo.addressRegion">State/Province</label>
+			<label index="flexform.fluidDemo.postalCode">ZIP/Postal Code</label>
+			<label index="flexform.fluidDemo.telephone">Telephone</label>
+			<label index="flexform.fluidDemo.email">Email</label>
+			<label index="flexform.fluidDemo.url">URL</label>
+		</languageKey>
+	</data>
+</T3locallang>

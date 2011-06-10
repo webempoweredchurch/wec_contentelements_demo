@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'wec_contentelements'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tt_content.flexFormSectionDemo.title">WEC Content Elements Demo - Repeating Sections</label>
+			<label index="tt_content.flexFormSectionDemo.description">Uses WEC Content Elements, TypoScript, and Repeating Sections to create a simple jQuery Galleria-based slideshow.</label>
+
+			<label index="flexform.flexFormSectionDemo.image">Image</label>
+			<label index="flexform.flexFormSectionDemo.imageFile">Image File</label>
+		</languageKey>
+	</data>
+</T3locallang>
